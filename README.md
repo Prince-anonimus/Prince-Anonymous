@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-anonimus" alt="prince-anonimus" /></a> </p>
 
-- 🔭 I’m currently working on [Freelancing](www.upwork.com)
+- 🔭 I’m currently working on [WILL UPDATE]
 
-- 🌱 I’m currently learning **Scrapy**
+- 🌱 I’m currently learning **AI Development**
 
-- 👯 I’m looking to collaborate on **Web Scraping Projects**
+- 👯 I’m looking to collaborate on **Web Scraping**
 
 - 🤝 I’m looking for help with **Web Scraping**
 
