@@ -1,29 +1,53 @@
-<h1 align="center">Hi 👋, I'm Prince</h1>
-<h3 align="center">I'm a passionate web scraper and Python developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=prince-anonimus&label=Profile%20views&color=0e75b6&style=flat" alt="prince-anonimus" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prince-anonimus" alt="prince-anonimus" /></a> </p>
-
-- 🔭 I’m currently working on [WILL UPDATE]
-
-- 🌱 I’m currently learning **AI Development**
-
-- 👯 I’m looking to collaborate on **Web Scraping**
-
-- 🤝 I’m looking for help with **Web Scraping**
-
-- 💬 Ask me about **Python, ButifulSoup, Selenium**
-
-- 📫 How to reach me **prince23122006@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<!-- Banner GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+<h1 align="center">Hey 👋, I'm Prince — Your Go-To Web Scraper</h1>
+<h3 align="center">I help businesses extract valuable data with Python, BeautifulSoup, and Selenium</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prince-anonimus&show_icons=true&locale=en&layout=compact" alt="prince-anonimus" /></p>
+<!-- Profile Views & Trophy -->
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=prince-anonimus&label=Profile%20views&color=0e75b6&style=flat" alt="prince-anonimus" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prince-anonimus&show_icons=true&locale=en" alt="prince-anonimus" /></p>
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=prince-anonimus" alt="Trophies" />
+  </a>
+</p>
+
+---
+
+## 🛠️ What I Do
+
+```bash
+$ python scraping.py
+> Connecting to client website...
+> Scraping 500+ product entries...
+> Parsing HTML with BeautifulSoup...
+> Handling JavaScript with Selenium...
+> Exporting clean data to Excel...
+> Task Complete. Data Delivered. 🚀
+
+---
+
+## 🧠 How I Do It
+
+I'm not just writing scripts — I'm solving data problems. Here's how I approach web scraping like a professional:
+
+### 🛠 Tools I Use:
+- 🐍 **Python**: My core weapon for speed and flexibility.
+- 🕸 **Scrapy**: For fast and scalable scraping pipelines.
+- 🥣 **BeautifulSoup**: When I need to extract structured data from clean HTML.
+- 🧪 **Selenium**: For dynamic websites, JavaScript content, and clicking through pages.
+- 🧱 **Pandas + CSV/Excel Export**: For clean, structured data delivery.
+
+### 💡 My Process:
+```bash
+1. Target selection (website, platform, or directory)
+2. Analyze structure (HTML/CSS layout, JavaScript rendering, paginations)
+3. Build the scraper using the right stack (Scrapy / Selenium / BS4)
+4. Handle captchas (with delay, headless, proxies, or external services)
+5. Structure the data into CSV, Excel, or JSON
+6. Clean & deliver — ready for client use
