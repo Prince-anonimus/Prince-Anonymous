@@ -3,51 +3,73 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="coding gif">
 </p>
 
-<h1 align="center">Hey 👋, I'm Prince — Your Go-To Web Scraper</h1>
-<h3 align="center">I help businesses extract valuable data with Python, BeautifulSoup, and Selenium</h3>
+<h1 align="center">Hey 👋, I'm Prince — Professional Web Scraper & Automation Developer</h1>
 
-<!-- Profile Views & Trophy -->
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=prince-anonimus&label=Profile%20views&color=0e75b6&style=flat" alt="prince-anonimus" />
-</p>
+<h3 align="center">
+I build powerful web scraping bots, automation tools, and API integrations using Python, Selenium, BeautifulSoup & Scrapy 🚀
+</h3>
+
+---
+
+## 👨‍💻 About Me
+
+- 🔥 Specialized in **Web Scraping & Data Extraction**
+- ⚡ Extracting data from:
+  - E-commerce websites
+  - Business directories
+  - Social media platforms
+  - Real estate websites
+  - Dynamic JavaScript websites
+  - APIs & hidden network requests
+  - Protected websites with anti-bot systems
+
+- 🧠 Experienced with:
+  - Selenium Automation
+  - Scrapy Framework
+  - BeautifulSoup Parsing
+  - API Handling
+  - Proxy Rotation
+  - CAPTCHA Bypass Strategies
+  - Headless Browser Automation
+  - Data Cleaning & Processing
+
+- 📦 Delivering data in:
+  - Excel
+  - CSV
+  - JSON
+  - SQL Databases
+
+---
+
+## 🛠 Tech Stack
 
 <p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=prince-anonimus" alt="Trophies" />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=selenium" />
+<img src="https://skillicons.dev/icons?i=flask" />
+<img src="https://skillicons.dev/icons?i=django" />
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=mysql" />
+
 </p>
 
 ---
 
-## 🛠️ What I Do
+# 🕷 Web Scraping Expertise
 
 ```bash
-$ python scraping.py
-> Connecting to client website...
-> Scraping 500+ product entries...
-> Parsing HTML with BeautifulSoup...
-> Handling JavaScript with Selenium...
-> Exporting clean data to Excel...
-> Task Complete. Data Delivered. 🚀
+$ python scraper.py
 
----
-
-## 🧠 How I Do It
-
-I'm not just writing scripts — I'm solving data problems. Here's how I approach web scraping like a professional:
-
-### 🛠 Tools I Use:
-- 🐍 **Python**: My core weapon for speed and flexibility.
-- 🕸 **Scrapy**: For fast and scalable scraping pipelines.
-- 🥣 **BeautifulSoup**: When I need to extract structured data from clean HTML.
-- 🧪 **Selenium**: For dynamic websites, JavaScript content, and clicking through pages.
-- 🧱 **Pandas + CSV/Excel Export**: For clean, structured data delivery.
-
-### 💡 My Process:
-```bash
-1. Target selection (website, platform, or directory)
-2. Analyze structure (HTML/CSS layout, JavaScript rendering, paginations)
-3. Build the scraper using the right stack (Scrapy / Selenium / BS4)
-4. Handle captchas (with delay, headless, proxies, or external services)
-5. Structure the data into CSV, Excel, or JSON
-6. Clean & deliver — ready for client use
+> Initializing scraper...
+> Connecting to target website...
+> Detecting APIs & network requests...
+> Parsing HTML structure...
+> Handling JavaScript rendering...
+> Rotating proxies...
+> Extracting structured data...
+> Cleaning & validating records...
+> Exporting to Excel / CSV / JSON...
+> Scraping Complete 🚀
